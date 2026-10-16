@@ -1,2 +1,2 @@
-# StudyHub
-Disciplinas em curso atualmente e seu progresso
+# Projetos e certificados
+Projetos em andamento e certificações obtidas

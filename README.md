@@ -1,2 +1,2 @@
-# StudyHub
-Disciplinas em curso atualmente e seu progresso
+# BootCamp
+Planejamento da arquitetura do Study Hub e entregas do projeto.

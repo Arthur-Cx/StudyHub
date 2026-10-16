@@ -1,2 +1,2 @@
-# StudyHub
-Disciplinas em curso atualmente e seu progresso
+# Fundamentos da Engenharia
+Apresentar ao aluno os conteúdos teóricos básicos da Engenharia.

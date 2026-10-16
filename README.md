@@ -1,2 +1,2 @@
-# StudyHub
-Disciplinas em curso atualmente e seu progresso
+# Banco de Dados
+Criação prática de modelos lógicos e conceituais

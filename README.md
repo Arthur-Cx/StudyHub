@@ -1,2 +1,2 @@
-# StudyHub
-Disciplinas em curso atualmente e seu progresso
+# Engenharia de Software
+Aplicação dos princípios básicos da engenharia de software.

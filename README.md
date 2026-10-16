@@ -1,2 +1,2 @@
-# StudyHub
-Disciplinas em curso atualmente e seu progresso
+# Lógica de programação
+Introdução à linguagens de programação e obtenção da certificação PCEP
